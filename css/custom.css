@@ -1,0 +1,115 @@
+@media (min-width: 1200px) {
+    .container {
+        min-width: 1140px;
+    }
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+/* Navigation menu */
+.navbar-brand {
+    font-weight: 700;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.navbar-light .navbar-nav .btn:hover {
+    background-color: #21bf73;
+    border: 1px solid #21bf73;
+    color: #fff;
+}
+
+
+.custom-heading-color {
+    color: #3a3a47;
+    font-weight: 700;
+}
+
+.custom-span-color {
+    color: #21BF73;
+    font-weight: 600;
+}
+
+
+/* Home section */
+
+.home {
+    background-color: #f0f5f9; 
+    padding: 150px 0 100px 0;
+}
+
+.home .container .row .col-12 h6 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.home .container .row .col-12 h1 {
+    font-size: 36px;
+}
+
+.home .container .row .col-12 .btn {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+
+/* About section */
+
+.about__card-1 {
+    background-color: #fff2e5;
+}
+
+.about__card-2 {
+    background-color: #F8F9FA;
+}
+
+.about__card-3 {
+    background-color: #F0F5F9;
+}
+
+.about__card-image {
+    width: 80px;
+}
+
+
+/* Features section */
+.features__container {
+    background-color: #f0f5f9;
+}
+
+
+/* Results section */
+.results__image {
+    width: 80px;
+}
+
+/* reviews */
+
+.reviews__container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+
+
+/* pricing */
+
+.pricing__card {
+    background-color: #f0f5f9;
+}
+
+
+/* faq */
+
+.faq__container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
