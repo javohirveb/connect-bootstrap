@@ -28,6 +28,10 @@ body {
     color: #fff;
 }
 
+.w-full {
+    width: 100%;
+}
+
 
 .custom-heading-color {
     color: #3a3a47;
